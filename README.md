@@ -4,14 +4,12 @@ ___
 
 📖 Fluency in English ***&*** Portuguese (BR) **-** Learning Japanese ***&*** French.
 
-💙 **Languages**: ***TypeScript*** with ***Vue*** & ***SASS*** **-** ***JavaScript*** with ***Node*** in ***CLI*** **-** ***Julia***.
+💙 **Languages**: ***Shell Scripting***, ***TypeScript*** with ***Vue*** & ***SASS*** **-** ***JavaScript*** with ***Node*** in ***CLI*** **-** Learning ***C*** & ***Julia***.
 
 ✉️ **koetemagie**@**gmail**.**com** or @**koetemagie**
 
-⏰ *Programming since I was 15 **- 2 years -** using neovim*.
+⏰ *Programming since I was 15 **- 3 years -** using neovim*.
 
-___
-
-❤️ If you're thinking about creating a project based in ***Math***/***Physics***/***Astrophysics***, I'd love to work with you **:)**
+__
 
 <!-- C++, C, Python-->
