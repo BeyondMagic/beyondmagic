@@ -1,10 +1,10 @@
-Hello, separately from programming, I love creating mathematical problems, design with a variety of colours, and I am ambidextrous :)
+Hello, separately from programming, I love creating mathematical problems, design with a variety of colours, and I am ambidextrous (yes)
 
 ___
 
 📖 Fluency in English ***&*** Portuguese (BR) **-** Learning Japanese ***&*** French.
 
-💙 **Languages**: ***Shell Scripting***, ***TypeScript*** with ***Vue*** & ***SASS*** **-** ***JavaScript*** with ***Node*** in ***CLI*** **-** Learning ***C*** & ***Julia***.
+💙 **Languages**: ***Shell Scripting***, ***SASS*** **-** ***JavaScript*** with ***Node*** in ***CLI*** **-** Learning ***C++*** & ***Julia***.
 
 ✉️ **koetemagie**@**gmail**.**com** or @**koetemagie**
 
