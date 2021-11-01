@@ -1,4 +1,4 @@
-Hello, separately from programming, I love creating mathematical problems, design with a variety of colours, and I am ambidextrous (yes)
+Hello, separately from programming, I love creating mathematical problems, design with a variety of colours.
 
 ___
 
@@ -8,8 +8,6 @@ ___
 
 ✉️ **koetemagie**@**gmail**.**com** or @**koetemagie**
 
-⏰ *Programming since I was 15 **- 3 years -** using neovim*.
+⏰ *Programming since I was 15 **-- 3 years --** using neovim*.
 
 __
-
-<!-- C++, C, Python-->
