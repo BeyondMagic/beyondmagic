@@ -6,7 +6,7 @@ ___
 
 💙 **Languages**: ***Shell Scripting***, ***JavaScript***, **C++**.
 
-✉️ **koetemagie**@**gmail**.**com** or @**koetemagie**
+✉️ **koetemagie**@**gmail**.**com** or @**beyond_magic** for [Telegram](https://telegram.org/)
 
 ⏰ *Programming since I was 15 **-- 3 years --** using neovim*.
 
