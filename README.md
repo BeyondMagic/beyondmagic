@@ -11,5 +11,3 @@ ___
 ⏰ *Programming since I was 15 **-- 3 years --** using neovim*.
 
 🚢 Currently on the ship of **C++**.
-
-__
