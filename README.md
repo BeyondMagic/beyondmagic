@@ -21,3 +21,5 @@ If you want to help and/or incentivate me to create more and better programs: fi
 **Ko-fi**: https://ko-fi.com/beyondmagic
 
 **Monero**: 45AqJtq1pJqRHkZkwCGTjdWiHKF4Bdx5V99hfDkfxpHDh3g838daMEHDnwEWQLSLajX1yvF7Khrwke5FHbmGB8cUT233kaP
+
+**Luna (Terra)**: terra1hm4grlwkt26tccr4vclwjz3elgh224wquctwye
