@@ -4,7 +4,9 @@ ___
 
 📖 Fluency in English ***&*** Portuguese (BR) **-** Learning Japanese ***&*** French.
 
-💙 **Languages**: ***Shell Scripting***, ***JavaScript***, **C++**.
+💙 **Languages I am very, very good at**: ***Shell Scripting***, ***JavaScript*** & ***Typescript***.
+
+🖤 **Languages I am willing to be very, very good at**: ***C++***.
 
 ✉️ **koetemagie**@**gmail**.**com** or @**beyond_magic** for [Telegram](https://telegram.org/)
 
