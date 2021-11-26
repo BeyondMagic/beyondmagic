@@ -16,6 +16,16 @@ ___
 
 ___
 
+Future projects:
++ a blog for me, of course!
++ a desktop on Wayland as good as mine on Xorg.
++ a program to simulate borders around window.
++ [todoncli](https://github.com/BeyondMagic/todoncli), the firt project I worked with, rewrite in Typescript!
++ a website showing the most horrific events in the last two centuries.
++ a visually wonderful game in C++!
+
+___
+
 If you want to help and/or incentivate me to create more and better programs: firstly, thank you! You can donate to:
 
 **Buy Me a Coffe**: https://www.buymeacoffee.com/BeyondMagic
