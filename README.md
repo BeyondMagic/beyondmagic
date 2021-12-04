@@ -23,6 +23,7 @@ Future projects:
 + [todoncli](https://github.com/BeyondMagic/todoncli), the firt project I worked with, rewrite in Typescript!
 + a website showing the most horrific events in the last two centuries.
 + a visually wonderful game in C++!
++ a voice regonizer to word in C++!
 
 ___
 
