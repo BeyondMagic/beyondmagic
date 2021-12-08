@@ -19,11 +19,11 @@ ___
 Future projects:
 + a blog for me, of course!
 + a desktop on Wayland as good as mine on Xorg.
-+ a program to simulate borders around window.
++ a program to simulate borders around windows.
 + [todoncli](https://github.com/BeyondMagic/todoncli), the first project I worked with, rewrite in Typescript!
 + a website showing the most horrific events in the last two centuries.
 + a visually wonderful game in C++!
-+ a voice regonizer to word in C++!
++ a voice recognizer to word in C++!
 
 ___
 
