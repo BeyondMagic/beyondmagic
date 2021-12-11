@@ -16,7 +16,7 @@ ___
 
 ___
 
-Future projects:
+Future open-source projects:
 + a blog for me, of course!
 + a desktop on Wayland as good as mine on Xorg.
 + a program to simulate borders around windows.
@@ -24,6 +24,7 @@ Future projects:
 + a website showing the most horrific events in the last two centuries.
 + a visually wonderful game in C++!
 + a voice recognizer to word in C++!
++ a input-engine in TypeScript that doesn't suck!
 
 ___
 
