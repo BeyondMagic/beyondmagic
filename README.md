@@ -10,7 +10,7 @@ ___
 
 ✉️ **koetemagie**@**gmail**.**com** or @**beyond_magic** for [Telegram](https://telegram.org/)
 
-⏰ *Programming since I was 15 **-- 3 years --** using neovim*.
+⏰ *Programming since I was 15 **-- 4 years --** using neovim*.
 
 🚢 Currently on the ship of **C++**.
 
