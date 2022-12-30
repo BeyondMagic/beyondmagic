@@ -2,8 +2,8 @@ Hello, separately from programming I love creating mathematical problems and des
 
 ___
 
-💙 **Languages I am very, very good at**: ***Shell Scripting***, ***JavaScript*** & ***Typescript***.
+💙 **Languages I love**: ***Shell Scripting***, ***JavaScript*** and ***Typescript***.
 
-🖤 **Languages I am willing to be very, very good at**: ***C++***.
+🖤 **Languages I am learning to love**: ***C*** and ***C++*** .
 
 ✉️ **koetemagie**@**gmail**.**com** or @**beyond_magic** for [Telegram](https://telegram.org/)
