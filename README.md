@@ -6,4 +6,6 @@ ___
 
 🖤 **Languages I am learning to love**: ***C*** and ***C++*** .
 
+🤍 **Languages I will one day learn to love**: ***Lua*** and ***Haskell***
+
 ✉️ **koetemagie**@**gmail**.**com** or @**beyond_magic** for [Telegram](https://telegram.org/)
