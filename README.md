@@ -1,4 +1,8 @@
-Hello, separately from programming I love creating mathematical problems and design with a variety of colours.
+Hello, 
+
+While programming is my passion I have a spot in my heart for mathematics and design, and working with all three is where I thrive.
+
+I like to share what I learn and how I do it, eventually I plan to put up in a digital garden my thoughts.
 
 ___
 
