@@ -10,10 +10,10 @@ I have fun doing competitive programming racing to the top; and working on free 
 
 If you are asking which languages I program the most, I'd say any I need to. Programming languages are only tools for one's mind, that's a lesson I'll always believe.
 
-<a href="mailto:koetemagie@gmail.com" target="_blank" rel="nofollow">
-  <img align="right" alt"BeyondMagic's Telegram's" src="https://github.com/BeyondMagic/beyondmagic/assets/51831435/c0a7f158-1aa4-4808-9c15-481d32c9b157"/>
+<a href="mailto:koetemagie@gmail.com">
+   <img align="right" src="/gmail-svgrepo-com.png" alt="BeyondMagic's Gmail's">
 </a>
 
 <a href="https://t.me/beyond_magic" target="_blank" rel="nofollow">
-  <img align="right" alt"BeyondMagic's Telegram's" src="https://github.com/BeyondMagic/beyondmagic/assets/51831435/104451af-2b98-43fc-84cf-0d775aae7df3"/>
+  <img align="right" alt"BeyondMagic's Telegram's" src="Telegram_logo_black.png"/>
 </a>
