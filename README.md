@@ -1,19 +1,16 @@
-Hello, my real name is João Farias and I love to write latest language-standard code.
+Hello, my real name is João Farias and I like to write practical code, that of which enables easier real-life tasks.
 
-And while programming is my passion I have a spot in my heart for mathematics and design, and working with all three is where I thrive.
+Programming has been a passion for long four years now, since I was a teenager to now, a young adult; throughout it I met the Mathematics the legends write about, the myths it seeks, it has been great learning, truly learning it.
 
-I like to share what I learn and how I do it, eventually I plan to put up my thoughts in a digital garden.
+I learned to love visual art of the many types: drawing, painting, designing; linguistics and philosophies also have made me change the way I see much of the world.
+
+Overall, I'd say I like to share what I learn, and one day, I plan to put up many of my thoughts in a digital garden.
 
 ___
 
-I have fun doing competitive programming racing to the top; and working on free and open source software where everyone can benefit from.
+As you will see from my repositories and contributions, I like to work on [free and open source software](https://www.fsf.org/) where everyone can benefit from.
 
-If you are asking which languages I program the most, I'd say any I need to. Programming languages are only tools for one's mind, that's a lesson I'll always believe.
+I also have fun doing competitive programming!
 
-<a href="mailto:koetemagie@gmail.com">
-   <img align="right" src="/gmail-svgrepo-com.png" alt="BeyondMagic's Gmail's">
-</a>
-
-<a href="https://t.me/beyond_magic" target="_blank" rel="nofollow">
-  <img align="right" alt"BeyondMagic's Telegram's" src="Telegram_logo_black.png"/>
-</a>
+- [My Gmail](mailto:koetemagie@gmail.com)
+- [My Telegram](https://t.me/beyond_magic)
