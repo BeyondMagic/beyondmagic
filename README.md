@@ -1,4 +1,4 @@
-A computer is a tool to get what you *need* in a *convenient* manner; not the opposite.
+A computer is a tool to get what you **need** in a *convenient* manner; not the opposite.
 
 I plan to put up many of my thoughts in a digital garden one day.
 
