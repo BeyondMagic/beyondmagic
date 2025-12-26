@@ -1,6 +1,6 @@
 Engineer with a focus on data. I turn bytes into art, and value performance and simplicity above all.
 
-I plan to put up many of my thoughts in a digital garden one day.
+I have been developing a [digital garden](https://github.com/BeyondMagic/digital-garden) for quite some time now, and I am excited to share it with you soon.
 
 > Through sociological lens, a computer is a tool to get what you **need** in a *convenient* manner; not the opposite.
 
